@@ -1,5 +1,10 @@
 # domain
 # create icbc
-https://tds.hycom.org/thredds/dodsC/GLBy0.08/expt_93.0
+https://data.hycom.org/datasets/GLBy0.08/expt_93.0/data/forecasts/ (freq 6)
+ssh sea surface height (zeta), ts3z (temp salinity), uv3z (current)
 # create surface forcing
+##1 analisis
+https://www.ncei.noaa.gov/thredds/fileServer/model-gfs-g4-anl-files/202311/20231110/gfs_4_20231110_0000_006.grb2
+##2 forecast
+https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/gfs.20231113/00/atmos/
 # create tide
